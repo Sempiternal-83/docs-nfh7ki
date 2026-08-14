@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kts3kc.hsteamid.com/sitemap.xml
